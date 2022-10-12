@@ -1,2 +1,6 @@
 # Sparks-Foundation-Internship-Tasks
-This repo is to contain all tasks for submission under the internship of The Sparks Foundation as Mobile App Development
+This repo contains all taks for submission under the internship of The Sparks Foundation(All )
+
+1.Basic Banking App.
+2.Payment Gateway Integration.
+3.Social Media Integration
