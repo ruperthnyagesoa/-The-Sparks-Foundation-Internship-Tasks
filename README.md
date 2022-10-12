@@ -2,5 +2,8 @@
 This repo contains all taks for submission under the internship of The Sparks Foundation(All )
 
 1.Basic Banking App.
+
 2.Payment Gateway Integration.
+
 3.Social Media Integration
+
